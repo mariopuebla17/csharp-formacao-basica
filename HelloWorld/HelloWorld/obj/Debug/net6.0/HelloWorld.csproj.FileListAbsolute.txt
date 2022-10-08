@@ -1,0 +1,15 @@
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Volumes/HDD 1TB/Projetos/Linkedin Learning/Introdução ao C#/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
